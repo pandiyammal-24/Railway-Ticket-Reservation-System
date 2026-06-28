@@ -164,6 +164,6 @@ Main.java
 
 ## 👩‍💻 Author
 
-**Pandiyammal**
+**Pandiyammal A**
 
 If you found this project useful, feel free to ⭐ the repository.
