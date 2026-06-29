@@ -153,12 +153,10 @@ Main.java
 ## 🚀 Future Enhancements
 
 * Database integration (MySQL)
-* Spring Boot REST API
 * User Authentication
 * Admin Dashboard
 * Online Payment Gateway
 * Seat Preference Allocation
-* File-based data persistence
 
 ---
 
